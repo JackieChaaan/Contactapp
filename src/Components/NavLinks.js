@@ -11,7 +11,7 @@ function NavLinks() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav" className='justify-content-end'>
           <Nav >
-            <Link className='nav-link' to='/'>Home</Link>
+            <Link className='nav-link' to='/Contactapp'>Home</Link>
             <Link className='nav-link' to='/favourite'>Favourite</Link>
           </Nav>
         </Navbar.Collapse>
