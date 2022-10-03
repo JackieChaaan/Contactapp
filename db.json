@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "name": "Abel C Varghese",
+      "email": "abelcvarghese12097@gmail.com",
+      "phone": "830 103 2838",
+      "id": 1658809707547,
+      "fav": false
+    },
+    {
+      "name": "Abel C Varghese",
+      "email": "abelcvarghese12097@gmail.com",
+      "phone": "1234567898",
+      "id": 1658928343346,
+      "fav": true
+    }
+  ]
+}
