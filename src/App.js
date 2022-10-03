@@ -92,7 +92,7 @@ function App() {
     <Router>
       <NavLinks />
       <Routes>
-        <Route exact path='/' element={<Home formSub={formSuba} contacts={contacts} deleteContact={deleteContact} favToggle={favToggle} />}></Route>
+        <Route exact path='/Contactapp' element={<Home formSub={formSuba} contacts={contacts} deleteContact={deleteContact} favToggle={favToggle} />}></Route>
         <Route exact path='/favourite' element={<Favourite contacts={contacts} deleteContact={deleteContact} favToggle={favToggle} />}></Route>
       </Routes>
     </Router>
